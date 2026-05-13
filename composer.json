@@ -5,7 +5,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "charlyclar/kya-auth-sdk",
+            "name": "charlyclar/agent-auth-sdk",
             "email": "contact@kya.io"
         }
     ],
