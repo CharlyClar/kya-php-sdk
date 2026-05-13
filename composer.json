@@ -5,7 +5,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "CharlyClar/kya-sdk-php",
+            "name": "charlyclar/kya-sdk-php-auth",
             "email": "contact@kya.io"
         }
     ],
