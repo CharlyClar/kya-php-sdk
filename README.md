@@ -7,7 +7,7 @@
 Installez le SDK via Composer :
 
 ```bash
-composer require kya/sdk-php
+composer require platform-auth/kya-sdk-php
 
 
 🛡️ Utilisation Rapide
