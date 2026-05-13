@@ -1,5 +1,5 @@
 {
-    "name": "platform/kya-sdk-php",
+    "name": "platform-kya/sdk-php",
     "description": "SDK officiel KYA pour la vérification des passeports d'agents IA.",
     "type": "library",
     "license": "MIT",
